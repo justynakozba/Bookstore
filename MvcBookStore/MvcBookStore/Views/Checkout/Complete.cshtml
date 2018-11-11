@@ -1,0 +1,12 @@
+﻿@{
+    ViewBag.Title = "Checkout Complete";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Zamówienie przekazane do realizacji</h2>
+
+<p>Dziękujemy za Twoje zakupy!</p>
+<p>
+    Kontynuuj zakupy
+    @Html.ActionLink("store", "Index", "Home")
+</p>

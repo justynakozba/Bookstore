@@ -1,0 +1,26 @@
+﻿@model MvcBookStore.Models.Book
+
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Model.Title</h2>
+<p>
+    <img alt="@Model.Title" src="@Model.BookArtUrl" />
+</p>
+<div id="album-details">
+    <p>
+        <em>Kategoria:</em>@Model.Genre.Name
+    </p>
+    <p>
+        <em>Autor:</em> @Model.Author.Name
+    </p>
+    <p>
+        <em>Cena:</em> @String.Format("{0:F}", Model.Price)
+    </p>
+    <p class="button">
+        @Html.ActionLink("Dodaj do koszyka", "AddToCart", "ShoppingCart", new { id = Model.BookId }, "")
+    </p>
+</div>
+

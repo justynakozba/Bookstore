@@ -1,0 +1,18 @@
+﻿@model MvcBookStore.Models.Genre
+@{
+    ViewBag.Title = "Browse";
+}
+
+    <h2>Przeglądaj kategorię: @Model.Name</h2>
+    <ul id="book-list">
+        @foreach (var book in Model.Books)
+    {
+
+        <li>
+              @Html.ActionLink(book.Title,
+              "Details", new { id = book.BookId })
+        </li>
+
+    }
+    </ul>
+

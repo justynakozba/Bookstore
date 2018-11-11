@@ -1,0 +1,25 @@
+﻿@model IEnumerable<MvcBookStore.Models.Book>
+@{
+
+    Layout = "~/Views/Shared/_Layout.cshtml";
+    ViewBag.Title = "Index";
+}
+<h4>
+    <img src="~/Content/Images/promocja.png" height="400" width="900"  />
+</h4>
+<h2></h2>
+<h3>Najchętniej wybierane:</h3>
+
+<ul>
+    @foreach (var book in @Model)
+    {
+        <li>
+            <a href="@Url.Action("Details", "Store", new { id=book.BookId})">
+                <img alt="@book.Title" src="@book.BookArtUrl" width="200" height="300" />
+                <p><span>@book.Title</span></p>
+            </a>
+        </li>
+    }
+</ul>
+
+

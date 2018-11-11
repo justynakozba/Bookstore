@@ -1,0 +1,272 @@
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll.config
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\MvcBookStore.pdb
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\Antlr3.Runtime.dll
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\Microsoft.Web.Infrastructure.dll
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.dll
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.dll
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.dll
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\System.Web.Optimization.dll
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\System.Web.Razor.dll
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.dll
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.dll
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.dll
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\WebGrease.dll
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.xml
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.xml
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\System.Web.Optimization.xml
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\System.Web.Razor.xml
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.xml
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.xml
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.xml
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\Antlr3.Runtime.pdb
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\pl\System.Web.Helpers.resources.dll
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\pl\System.Web.Mvc.resources.dll
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\pl\System.Web.Optimization.resources.dll
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\pl\System.Web.Razor.resources.dll
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\pl\System.Web.WebPages.resources.dll
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\pl\System.Web.WebPages.Deployment.resources.dll
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\pl\System.Web.WebPages.Razor.resources.dll
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csprojResolveAssemblyReference.cache
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csproj.CoreCompileInputs.cache
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csproj.CopyComplete
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.dll
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.pdb
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\EntityFramework.dll
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\EntityFramework.SqlServer.dll
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\EntityFramework.xml
+c:\users\justyna\source\repos\MvcBookStore\MvcBookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll.config
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\MvcBookStore.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\MvcBookStore.pdb
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Win32.Primitives.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\netstandard.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.AppContext.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Collections.Concurrent.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Collections.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Collections.NonGeneric.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Collections.Specialized.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.ComponentModel.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.ComponentModel.Primitives.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.ComponentModel.TypeConverter.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Console.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Data.Common.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Diagnostics.Contracts.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Diagnostics.Debug.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Diagnostics.Process.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Diagnostics.StackTrace.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Diagnostics.Tools.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Diagnostics.TraceSource.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Diagnostics.Tracing.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Drawing.Primitives.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Dynamic.Runtime.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Globalization.Calendars.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Globalization.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Globalization.Extensions.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.IO.Compression.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.IO.Compression.ZipFile.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.IO.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.IO.FileSystem.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.IO.FileSystem.Primitives.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.IO.FileSystem.Watcher.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.IO.IsolatedStorage.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.IO.MemoryMappedFiles.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.IO.Pipes.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Linq.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Linq.Expressions.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Linq.Parallel.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Linq.Queryable.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Net.Http.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Net.NameResolution.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Net.NetworkInformation.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Net.Ping.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Net.Primitives.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Net.Requests.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Net.Security.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Net.Sockets.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Net.WebHeaderCollection.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Net.WebSockets.Client.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Net.WebSockets.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.ObjectModel.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Reflection.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Reflection.Extensions.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Reflection.Primitives.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Resources.Reader.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Resources.ResourceManager.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Resources.Writer.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Runtime.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Runtime.Extensions.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Runtime.Handles.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Runtime.InteropServices.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Runtime.Numerics.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Runtime.Serialization.Formatters.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Runtime.Serialization.Json.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Runtime.Serialization.Primitives.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Runtime.Serialization.Xml.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Security.Claims.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Security.Cryptography.Algorithms.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Security.Cryptography.Csp.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Security.Cryptography.Encoding.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Security.Cryptography.Primitives.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Security.Principal.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Security.SecureString.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Text.Encoding.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Text.Encoding.Extensions.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Text.RegularExpressions.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Threading.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Threading.Overlapped.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Threading.Tasks.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Threading.Tasks.Parallel.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Threading.Thread.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Threading.ThreadPool.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Threading.Timer.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.ValueTuple.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Xml.ReaderWriter.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Xml.XDocument.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Xml.XmlDocument.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Xml.XmlSerializer.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Xml.XPath.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Xml.XPath.XDocument.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Antlr3.Runtime.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\EntityFramework.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\EntityFramework.SqlServer.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Authentication.Abstractions.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Authentication.Cookies.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Authentication.Core.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Authentication.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.DataProtection.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Hosting.Abstractions.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Http.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Http.Extensions.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Http.Features.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Identity.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.WebUtilities.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.EntityFrameworkCore.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Configuration.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Hosting.Abstractions.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Logging.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.ObjectPool.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Options.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.WebEncoders.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Net.Http.Headers.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Win32.Registry.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Newtonsoft.Json.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Remotion.Linq.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Buffers.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Collections.Immutable.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.ComponentModel.Annotations.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Interactive.Async.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Memory.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Numerics.Vectors.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Security.AccessControl.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Security.Cryptography.Xml.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Security.Permissions.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Security.Principal.Windows.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Text.Encodings.Web.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Web.Optimization.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Web.Razor.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\WebGrease.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\EntityFramework.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\EntityFramework.SqlServer.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Authentication.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Authentication.Abstractions.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Authentication.Cookies.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Authentication.Core.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.DataProtection.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.DataProtection.Abstractions.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Hosting.Abstractions.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Hosting.Server.Abstractions.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Http.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Http.Abstractions.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Http.Extensions.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Http.Features.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Identity.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.Identity.EntityFrameworkCore.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.AspNetCore.WebUtilities.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.EntityFrameworkCore.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Configuration.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Hosting.Abstractions.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Identity.Core.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Identity.Stores.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Logging.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.ObjectPool.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Options.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Extensions.WebEncoders.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Microsoft.Net.Http.Headers.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Remotion.Linq.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Buffers.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Collections.Immutable.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Interactive.Async.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Memory.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Numerics.Vectors.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Text.Encodings.Web.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Web.Helpers.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Web.Mvc.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Web.Optimization.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Web.Razor.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\System.Web.WebPages.Razor.xml
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\Antlr3.Runtime.pdb
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\pl\System.Web.Helpers.resources.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\pl\System.Web.Mvc.resources.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\pl\System.Web.Optimization.resources.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\pl\System.Web.Razor.resources.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\pl\System.Web.WebPages.resources.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\pl\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\bin\pl\System.Web.WebPages.Razor.resources.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csproj.CoreCompileInputs.cache
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csproj.CopyComplete
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.dll
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.pdb
+C:\Users\Justyna\Desktop\git projects\Bookstore\Sklep2\MvcBookStore\MvcBookStore\obj\Debug\MvcBookStore.csprojResolveAssemblyReference.cache
